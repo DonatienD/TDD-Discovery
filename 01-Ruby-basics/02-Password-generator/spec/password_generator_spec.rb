@@ -1,6 +1,5 @@
 require 'password_generator'
 
-# to fix
 special_char = ['@', '?', '!', '#', '$', '€', '%', '&', '/', '+', '-', '*']
 upper_char = ('A'..'Z').to_a
 lower_char = ('a'..'z').to_a
